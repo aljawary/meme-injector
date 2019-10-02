@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\bin\Release\Meme Injector.exe.config
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\bin\Release\Meme Injector.exe
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\bin\Release\Meme Injector.pdb
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\bin\Release\Meme Injector.xml
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme_Injector.Form1.resources
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme_Injector.Resources.resources
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.exe
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.xml
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.pdb
+C:\Users\ASUS\source\repos\Meme Injector\Meme Injector\obj\Release\Meme Injector.vbprojAssemblyReference.cache
